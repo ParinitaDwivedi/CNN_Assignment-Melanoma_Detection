@@ -14,6 +14,16 @@ The overarching goal is to support the efforts to reduce the death caused by ski
 ## Dataset
 The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images.
 
+
+## Table of Contents
+1. Load Images and Data Augmentation
+2. Create Model
+3. Complile Model
+4. Train Model
+5. Visualize the results
+6. Conclusion/Findings
+
+
 ## CNN Architecture Design
 To classify skin cancer using skin lesions images. To achieve higher accuracy and results on the classification task, I have built custom CNN model.
 
@@ -26,3 +36,5 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 - Activation Function(ReLU) - The rectified linear activation function or ReLU for short is a piecewise linear function that will output the input directly if it is positive, otherwise, it will output zero.The rectified linear activation function overcomes the vanishing gradient problem, allowing models to learn faster and perform better.
 - Activation Function(Softmax) - The softmax function is used as the activation function in the output layer of neural network models that predict a multinomial probability distribution. The main advantage of using Softmax is the output probabilities range. The range will 0 to 1, and the sum of all the probabilities will be equal to one.
 
+
+#### Created by @ParinitaDwivedi - feel free to contact me!
