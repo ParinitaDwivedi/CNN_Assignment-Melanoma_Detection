@@ -13,12 +13,17 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 
 ## Table of Contents
-1. Load Images and Data Augmentation
-2. Create Model
+1. Load Images and Visualize the data
+2. Create a CNN Model
 3. Complile Model
 4. Train Model
 5. Visualize the results
-6. Conclusion/Findings
+6. Data Augmentation strategy
+7. Model 2 - Creation, Modelling, Train and Visualize results
+8. Class Imbalance Detection
+9. Use of Augmentor
+10. Model 3 - Creation, Modelling, Train and Visualize results
+11. Conclusion/Findings
 
 
 ## CNN Architecture Design
